@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+    //Testing new branch changes.
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
